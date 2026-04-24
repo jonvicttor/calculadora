@@ -36,7 +36,3 @@ A interface foi projetada para ter um ar de ferramenta profissional voltada para
 ## 🚀 Como rodar o projeto localmente
 
 Como o projeto é construído exclusivamente com tecnologias web nativas (HTML, CSS e JavaScript Vanilla), não é necessário nenhum processo de build ou instalação de dependências.
-
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
